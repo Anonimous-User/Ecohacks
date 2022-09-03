@@ -1,0 +1,12 @@
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/bin/Debug/net7.0/Database.deps.json
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/bin/Debug/net7.0/Database.dll
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/bin/Debug/net7.0/Database.pdb
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/Database.csproj.AssemblyReference.cache
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/Database.GeneratedMSBuildEditorConfig.editorconfig
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/Database.AssemblyInfoInputs.cache
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/Database.AssemblyInfo.cs
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/Database.csproj.CoreCompileInputs.cache
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/Database.dll
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/refint/Database.dll
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/Database.pdb
+/home/positron/RiderProjects/TriwayClass/ClassFour/Database/obj/Debug/net7.0/ref/Database.dll
