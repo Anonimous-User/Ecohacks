@@ -1601,11 +1601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stone\\Hackathon\\test1\\client\\test.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\client\\test.Client.csproj",
       "projectName": "test.Client",
-      "projectPath": "C:\\Users\\Stone\\Hackathon\\test1\\client\\test.Client.csproj",
+      "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\client\\test.Client.csproj",
       "packagesPath": "C:\\Users\\Stone\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stone\\Hackathon\\test1\\client\\obj\\",
+      "outputPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stone\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1620,8 +1620,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Stone\\Hackathon\\test1\\Shared\\test.Shared.csproj": {
-              "projectPath": "C:\\Users\\Stone\\Hackathon\\test1\\Shared\\test.Shared.csproj"
+            "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\test.Shared.csproj": {
+              "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\test.Shared.csproj"
             }
           }
         }

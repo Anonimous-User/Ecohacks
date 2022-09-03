@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stone\\Hackathon\\test1\\Shared\\test.Shared.csproj": {}
+    "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\test.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stone\\Hackathon\\test1\\Shared\\test.Shared.csproj": {
+    "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\test.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stone\\Hackathon\\test1\\Shared\\test.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\test.Shared.csproj",
         "projectName": "test.Shared",
-        "projectPath": "C:\\Users\\Stone\\Hackathon\\test1\\Shared\\test.Shared.csproj",
+        "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\test.Shared.csproj",
         "packagesPath": "C:\\Users\\Stone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stone\\Hackathon\\test1\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stone\\AppData\\Roaming\\NuGet\\NuGet.Config"
