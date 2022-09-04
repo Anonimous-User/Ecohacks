@@ -8,6 +8,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test1.Client", "Client\test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test1.Shared", "Shared\test1.Shared.csproj", "{364E7AB4-5E47-46B7-A763-2986EBCEE78A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAccess", "DatabaseAccess\DatabaseAccess.csproj", "{3321C45E-2CFE-4973-B9DF-7770F383C89E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,18 @@ Global
 		{364E7AB4-5E47-46B7-A763-2986EBCEE78A}.Release|x64.Build.0 = Release|Any CPU
 		{364E7AB4-5E47-46B7-A763-2986EBCEE78A}.Release|x86.ActiveCfg = Release|Any CPU
 		{364E7AB4-5E47-46B7-A763-2986EBCEE78A}.Release|x86.Build.0 = Release|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Debug|x64.Build.0 = Debug|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Debug|x86.Build.0 = Debug|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Release|x64.ActiveCfg = Release|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Release|x64.Build.0 = Release|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Release|x86.ActiveCfg = Release|Any CPU
+		{3321C45E-2CFE-4973-B9DF-7770F383C89E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
