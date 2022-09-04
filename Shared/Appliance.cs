@@ -3,6 +3,7 @@ namespace ecohacksthing.Shared;
 public class Appliance
 {
     public int EnergyStarUniqueId { get; set; }
+    public string ProductName { get; set; }
     public string BrandName { get; set; }
     public string ModelNumber { get; set; }
     public string Description { get; set; }
