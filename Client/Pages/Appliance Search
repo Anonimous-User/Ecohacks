@@ -3,8 +3,8 @@
 <PageTitle>Appliance Search</PageTitle>
 
 <h1>Search for your appliance, and see how energy efficient it is!</h1>
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
+<div>
+  <a href="#home">Home</a>
   <a href="#about">About</a>
   <a href="#contact">Contact</a>
   <input type="text" placeholder="Search Appliances...">
