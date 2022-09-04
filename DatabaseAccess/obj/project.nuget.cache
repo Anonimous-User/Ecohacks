@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PA+n+MUdi8J5RZWTGHZkCZZn/3xqi6Wxs7axQLLyfkSMuaVHXLYLuyQpFX4uUtcVxPU/PZCxe5wUruQu/WzpJg==",
+  "dgSpecHash": "/0R+UXOaAKNf3xX6LxkHF5CeZxdnSA1ZngNBLKbR1ItLW8bhmwxcTkMSXOIbEx4YsUjyto5yRjzIj+Zl4e1qLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\DatabaseAccess\\DatabaseAccess.csproj",
+  "projectFilePath": "C:\\Users\\Stone\\Documents\\GitHub\\EcoHacksThing\\DatabaseAccess\\DatabaseAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stone\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Stone\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

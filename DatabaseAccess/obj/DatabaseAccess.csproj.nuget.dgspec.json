@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\DatabaseAccess\\DatabaseAccess.csproj": {}
+    "C:\\Users\\Stone\\Documents\\GitHub\\EcoHacksThing\\DatabaseAccess\\DatabaseAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\DatabaseAccess\\DatabaseAccess.csproj": {
+    "C:\\Users\\Stone\\Documents\\GitHub\\EcoHacksThing\\DatabaseAccess\\DatabaseAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\DatabaseAccess\\DatabaseAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Stone\\Documents\\GitHub\\EcoHacksThing\\DatabaseAccess\\DatabaseAccess.csproj",
         "projectName": "DatabaseAccess",
-        "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\DatabaseAccess\\DatabaseAccess.csproj",
+        "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\EcoHacksThing\\DatabaseAccess\\DatabaseAccess.csproj",
         "packagesPath": "C:\\Users\\Stone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\DatabaseAccess\\obj\\",
+        "outputPath": "C:\\Users\\Stone\\Documents\\GitHub\\EcoHacksThing\\DatabaseAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stone\\AppData\\Roaming\\NuGet\\NuGet.Config"
