@@ -4,10 +4,4 @@
 <PageTitle>Welcome to the EEFASE!</PageTitle>
 <h2>(The Extremely Eco Friendly Appliances Search Engine!)</h2>
 
-<h1>Search Energy Efficient Appliances Here!</h1>
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
-  <input type="text" placeholder="Search Appliances...">
-</div>
+<h1>We aim to give you the most Eco Friendly Appliances around, so you can do your part in helping to save the environment!</h1>
