@@ -1,9 +1,0 @@
-@page "/"
-// This is the landing page
-
-<PageTitle>Welcome to the EEFASE!</PageTitle>
-<h2>(The Extremely Eco Friendly Appliances Search Engine!)</h2>
-
-<h1>We aim to give you the most Eco Friendly Appliances around, so you can do your part in helping to save the environment!</h1>
-<p>If you're looking for new household appliances, but you also care about your impact on the environment, then look no further! This site will aim to cut down your ecological footprint instead of forests and trees.</p>
-<p>Just head over to the search bar and look for some appliances that fit your needs and are also eco friendly!</p>
