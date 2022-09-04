@@ -376,14 +376,14 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
-      "test.Shared/1.0.0": {
+      "ecohacksthing.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/test.Shared.dll": {}
+          "bin/placeholder/ecohacksthing.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/test.Shared.dll": {}
+          "bin/placeholder/ecohacksthing.Shared.dll": {}
         }
       }
     },
@@ -756,14 +756,14 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
-      "test.Shared/1.0.0": {
+      "ecohacksthing.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/test.Shared.dll": {}
+          "bin/placeholder/ecohacksthing.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/test.Shared.dll": {}
+          "bin/placeholder/ecohacksthing.Shared.dll": {}
         }
       }
     }
@@ -1582,17 +1582,17 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "test.Shared/1.0.0": {
+    "ecohacksthing.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/test.Shared.csproj",
-      "msbuildProject": "../Shared/test.Shared.csproj"
+      "path": "../Shared/ecohacksthing.Shared.csproj",
+      "msbuildProject": "../Shared/ecohacksthing.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.0-preview.5.22303.8",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.0-preview.5.22303.8",
-      "test.Shared >= 1.0.0"
+      "ecohacksthing.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1601,11 +1601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\client\\test.Client.csproj",
-      "projectName": "test.Client",
-      "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\client\\test.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Client\\ecohacksthing.Client.csproj",
+      "projectName": "ecohacksthing.Client",
+      "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Client\\ecohacksthing.Client.csproj",
       "packagesPath": "C:\\Users\\Stone\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\client\\obj\\",
+      "outputPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stone\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1620,8 +1620,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\test.Shared.csproj": {
-              "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\test.Shared.csproj"
+            "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\ecohacksthing.Shared.csproj": {
+              "projectPath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Shared\\ecohacksthing.Shared.csproj"
             }
           }
         }

@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "test.Client",
+  "entryAssembly": "ecohacksthing.Client",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -198,15 +198,15 @@
       "mscorlib.dll": "sha256-iHPvP3hvw9QSuIPmkM7TbbTj53\/zXJvzVvJllC3WwEM=",
       "netstandard.dll": "sha256-tPcWZj2wYMzQyPMo99iPbgb4oCRyIU5yKjLKvm2KFTs=",
       "System.Private.CoreLib.dll": "sha256-JQ4nxbGpdfGWAPmWk2BuSzkNZMJSi8Y8MX4eKSdVvDg=",
-      "test.Shared.dll": "sha256-RfgRHcjg3KhKXiebLb9HZH7mK5pLZdgLlJLSq9Ocl8Y=",
-      "test.Client.dll": "sha256-KRiOF6GKuxAm9hGK9ySacqmp3Eo53C8zU1GkbYowy2w="
+      "ecohacksthing.Shared.dll": "sha256-3AMcB4dxBkvk7HqQQ4BcsWtNZVqRrHp2cRF\/kvzPpTk=",
+      "ecohacksthing.Client.dll": "sha256-iXDk3RyYsXX1S5xKTEwROpX5LK4AZagBxAkwJpCnbb4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "test.Shared.pdb": "sha256-8UaKZcpKvxMCA3M1ViKqBTO7P6jvCNfyspTMF+dulyw=",
-      "test.Client.pdb": "sha256-PrECx3VwRN7Rl6TblGboD5zfKnN6juwlhMYgqGr0HkY="
+      "ecohacksthing.Shared.pdb": "sha256-NRmCaBAdxiAEwrhYoLTNIXwGyEjAaISyMsu8mmPvFoo=",
+      "ecohacksthing.Client.pdb": "sha256-diZuB4\/FWnVxdxuHfyFrerEd9QFxs77IZMkufhuvIIQ="
     },
     "runtime": {
       "dotnet.7.0.0-preview.5.22301.12.1wdwqizwv8.js": "sha256-zal9IeJO7BJfCzOnB8Wxmr3qjTe4QzEuEmcEYx5ZQq0=",

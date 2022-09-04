@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gDGuvbkjlXUY91SkBRr0fv3ti+Hc9/2Z3ZrVgU6rjqr8OgwIafdmfNPDN0IhKVFN9lTH5O6r0ge8KJmv1F06vQ==",
+  "dgSpecHash": "gw+IwFf4AF/5x5+GjLPtZmwGPxI+gwenjYtVgVr2uk+VK0yojp8mHOOnLjGuuYPhQlvvk+Ljr0qPUTvD1xKHWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\client\\test.Client.csproj",
+  "projectFilePath": "C:\\Users\\Stone\\Documents\\GitHub\\Ecohacks\\Client\\ecohacksthing.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stone\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0-preview.5.22303.8\\microsoft.aspnetcore.authorization.7.0.0-preview.5.22303.8.nupkg.sha512",
     "C:\\Users\\Stone\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0-preview.5.22303.8\\microsoft.aspnetcore.components.7.0.0-preview.5.22303.8.nupkg.sha512",
