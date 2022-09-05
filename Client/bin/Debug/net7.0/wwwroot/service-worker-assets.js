@@ -865,19 +865,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-LYTmWrhqL6ImxOPCy\/Cgn\/J8fYFcpd0AP00CpZgZacc=",
+      "hash": "sha256-Od14\/RYWqyjJWW5MydUx3YJ4K8xCLD2UhTmdoKeRmTw=",
       "url": "_framework\/ecohacksthing.Shared.dll"
     },
     {
-      "hash": "sha256-cduxa5xKarlJIRizUbs0qbGxboRfrcze3Ixk5SIJA7Q=",
+      "hash": "sha256-R18Wl7hubMmBuuq1KNnbeJ7KNUJO2iAml1ccNFH6Kr0=",
       "url": "_framework\/ecohacksthing.Shared.pdb"
     },
     {
-      "hash": "sha256-8lHvjI62GE9ldAQcmqkcV\/5KB08ljY6\/nGomJyhMbyU=",
+      "hash": "sha256-yG7TGW80ij9q+jn9Ga5JHxAAm+gqB2t0ohIyW5QU8fU=",
       "url": "_framework\/ecohacksthing.Client.dll"
     },
     {
-      "hash": "sha256-59CMDHk40AN9FnLeYwmn+0XKy1v3oco7Q2mcuu+VMT4=",
+      "hash": "sha256-W7BkumYmqU+fDzxkKEi2FroJwd4Szp7\/xZpeDDZ3gW8=",
       "url": "_framework\/ecohacksthing.Client.pdb"
     },
     {
@@ -885,9 +885,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-qgFCM6P403LNeCo3S9leMELsbT7wgt4XWaumo7b75sc=",
+      "hash": "sha256-WSusTR1xHK3qNaQ\/m3Am\/ZeueYmqBeXu7ur03L4Q0Yc=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "\/9INv1f3"
+  "version": "CvYr6lbK"
 };
